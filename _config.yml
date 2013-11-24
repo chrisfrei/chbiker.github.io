@@ -1,0 +1,6 @@
+name: biketouren
+markdown: redcarpet
+pygments: false
+exclude: 
+- run.cmd
+- .gitignore
