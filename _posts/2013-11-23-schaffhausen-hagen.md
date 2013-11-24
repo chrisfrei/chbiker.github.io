@@ -3,9 +3,8 @@ layout: post
 title:  Schaffhausen - Hagen
 date:   2013-11-22 13:37:33
 categories: tour bike 
+tour: 2
 ---
-
-# Tour 2: SH - Hagen
 
 Li **Europan** lingues es _membres_ del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular.
 
