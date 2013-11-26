@@ -24,11 +24,7 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "false"
       - name: "length"
+        field:
           label: "Länge"
           element: "text"
