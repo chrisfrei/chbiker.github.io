@@ -15,6 +15,6 @@ prose:
             label: "Published"
             element: "checkbox"
             value: "false"
-        - name: "lenght"
+        - name: "length"
             label: "Länge"
-            element: "Text"
+            element: "text"
