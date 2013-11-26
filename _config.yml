@@ -6,15 +6,21 @@ exclude:
 - .gitignore
 
 prose:
-  siteurl: "http://chbiker.github.io/"
-  media: "images"
+  rooturl: '_posts'
+  siteurl: 'http://chbiker.github.io/'
   metadata:
     _posts:
-        - name: "published"
-          field:
-            label: "Published"
-            element: "checkbox"
-            value: "false"
-        - name: "length"
-            label: "Länge"
-            element: "text"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
