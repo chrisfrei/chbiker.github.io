@@ -4,3 +4,17 @@ pygments: false
 exclude: 
 - run.cmd
 - .gitignore
+
+prose:
+  siteurl: "http://chbiker.github.io/"
+  media: "images"
+  metadata:
+    _posts:
+        - name: "published"
+          field:
+            label: "Published"
+            element: "checkbox"
+            value: "false"
+        - name: "lenght"
+            label: "Länge"
+            element: "Text"
