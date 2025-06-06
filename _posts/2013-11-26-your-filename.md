@@ -6,6 +6,8 @@ title: a new post
 
 lorem **ipsum**
 
+fdgddfggdfgdf [fghgfhd](https://baug.ethz.ch) hgfhgfhd
+
 | asdf | safd | safa | sdfgsd |
 | --- | --- | --- | --- |
 | saf | asf | rghgdfdgf | dfgfds |
