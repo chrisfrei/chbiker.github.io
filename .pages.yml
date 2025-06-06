@@ -6,6 +6,14 @@ content:
     path: _posts
     media: images
     fields:
+      - { name: layout, type: string, hidden: true, default: post }
       - { name: title, label: Title, type: string }
+      - { name: date, label: Date, type: date }
+      - { name: length, label: Length, type: number }
+      - { name: up, label: Up, type: number }
+      - { name: down, label: Down, type: number }
+      - { name: tour, label: Tour, type: number }
+      - { name: image, label: Image, type: image }
+      - { name: body, label: Body, type: rich-text }
 
 
