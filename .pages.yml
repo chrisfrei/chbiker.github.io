@@ -7,6 +7,7 @@ content:
     media: images
     view:
       fields: [ title, date, tour, length ]
+      sort: [ tour, title ]
     fields:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: title, label: Title, type: string }
