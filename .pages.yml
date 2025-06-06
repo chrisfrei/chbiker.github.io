@@ -1,6 +1,1 @@
 media: images
-content:
-  - name posts
-    label: Posts
-    tpye: collection
-    path: _posts
