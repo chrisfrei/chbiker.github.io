@@ -1,5 +1,11 @@
 ---
+layout: post
 title: a new post
 ---
+# dsfdsa
 
-dsfdsa dsffadsfds dfsgfdsgdg
+lorem **ipsum** /
+
+1.  dsffadsfds dfsgfdsgdg
+    
+    ![](/images/buesingen-gennersbrunn.jpg)
