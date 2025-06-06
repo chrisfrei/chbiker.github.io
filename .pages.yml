@@ -5,6 +5,8 @@ content:
     type: collection
     path: _posts
     media: images
+    view:
+      fields: [ title, date, tour, length ]
     fields:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: title, label: Title, type: string }
