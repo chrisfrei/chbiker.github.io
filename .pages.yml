@@ -8,6 +8,9 @@ content:
     view:
       fields: [ title, date, tour, length ]
       sort: [ tour, title ]
+      default:
+        sort : tour
+        order: desc
     fields:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: title, label: Title, type: string }
