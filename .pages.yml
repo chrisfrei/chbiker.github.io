@@ -35,7 +35,8 @@ content:
       -   name: doc
           label: Document
           type: file
-          media: files
+          options:
+            media: files
       - { name: featured_post, label: Featured Post, type: reference, options: collection: posts }
       - { name: body, label: Body, type: rich-text }
 
