@@ -4,9 +4,11 @@ media:
     input: images
     output: /images
     categories: [ image ]
+  
   - name: files
     label: Files
     categories: [ document ]
+
 content:
   - name: posts
     label: Posts
