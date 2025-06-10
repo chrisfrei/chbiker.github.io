@@ -18,6 +18,6 @@ At quidem minus sit sequi internos et perspiciatis delectus.
 
 ## Map
 
-[PDF](/media/documents/Klasse 1a.pdf)
+[PDF](media/documents/Klasse 1a.pdf)
 
 1.  ![](/images/buesingen-gennersbrunn.jpg)
