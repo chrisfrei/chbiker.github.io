@@ -3,7 +3,7 @@ media:
     label: Images
     input: images
     output: /images
-    categories: [ image  ]
+    categories: [ image ]
   - name: files
     label: Files
     categories: [ document ]
