@@ -32,7 +32,7 @@ content:
       - { name: down, label: Down, type: number }
       - { name: tour, label: Tour, type: number }
       - { name: image, label: Image, type: image }
-      - { name: doc, label: Document, type: file }
+      - { name: doc, label: Document, type: file, categories: [ document ] }
       - { name: featured_post, label: Featured Post, type: reference, options: collection: posts }
       - { name: body, label: Body, type: rich-text }
 
