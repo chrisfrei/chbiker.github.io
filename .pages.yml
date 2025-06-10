@@ -21,5 +21,6 @@ content:
       - { name: tour, label: Tour, type: number }
       - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: rich-text }
+      - { name: featured_post, label: Featured Post, type: reference, options: collection: posts }
 
 
