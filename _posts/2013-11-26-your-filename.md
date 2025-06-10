@@ -2,6 +2,7 @@
 layout: post
 title: Post with Pages CMS
 date: 2025-06-10
+doc: /media/documents/Klasse 1a.pdf
 ---
 # Pages CMS
 
