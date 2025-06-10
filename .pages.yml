@@ -36,7 +36,7 @@ content:
           label: Document
           type: file
           options: 
-            path: documents
+            path: media/documents
             extensions: [pdf] 
       - { name: featured_post, label: Featured Post, type: reference, options: collection: posts }
       - { name: body, label: Body, type: rich-text }
