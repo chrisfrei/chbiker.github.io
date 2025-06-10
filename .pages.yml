@@ -7,6 +7,8 @@ media:
   
   - name: files
     label: Files
+    input: files/documents
+    output: /files/documents
     categories: [ document ]
 
 content:
