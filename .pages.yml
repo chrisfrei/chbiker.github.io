@@ -1,14 +1,14 @@
 media:
   - name: images
     label: Images
-    input: images
-    output: /images
+    input: media/images
+    output: /media/images
     categories: [ image ]
   
   - name: files
     label: Files
-    input: files/documents
-    output: /files/documents
+    input: media/documents
+    output: /media/documents
     categories: [ document ]
 
 content:
@@ -32,7 +32,7 @@ content:
       - { name: down, label: Down, type: number }
       - { name: tour, label: Tour, type: number }
       - { name: image, label: Image, type: image }
-      - { name: doc, label: Document, type: file, path: /files/documents, categories: [ document ] }
+      - { name: doc, label: Document, type: file, path: media/documents, categories: [ document ] }
       - { name: featured_post, label: Featured Post, type: reference, options: collection: posts }
       - { name: body, label: Body, type: rich-text }
 
