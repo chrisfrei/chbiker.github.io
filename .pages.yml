@@ -1,4 +1,14 @@
-media: images
+media:
+  - name: files
+    label: Files
+    input: files/documents
+    output: /files/documents
+    categories: [ document ]
+  - name: images # Note: 'name' key is required here
+    label: Images
+    input: images
+    output: /images
+    extensions: [ png, webp ]
 content:
   - name: posts
     label: Posts
