@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Büsingen - Gennersbrunn
+date: 2025-06-02
 length: 22
 up: 120
 down: 100
