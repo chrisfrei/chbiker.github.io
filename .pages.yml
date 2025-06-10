@@ -18,7 +18,7 @@ content:
     path: _posts
     media: images
     view:
-      fields: [ title, date, tour, length ]
+      fields: [ title, image, date, tour, length ]
       sort: [ tour, title ]
       default:
         sort : tour
