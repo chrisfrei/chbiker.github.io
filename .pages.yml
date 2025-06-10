@@ -1,10 +1,10 @@
 media:
+  - name: images # Note: 'name' key is required here
+    label: Images
+    extensions: [ jpg, png, webp ]
   - name: files
     label: Files
     categories: [ document ]
-  - name: images # Note: 'name' key is required here
-    label: Images
-    extensions: [ png, webp ]
 content:
   - name: posts
     label: Posts
