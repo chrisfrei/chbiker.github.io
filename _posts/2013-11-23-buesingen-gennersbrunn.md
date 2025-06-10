@@ -5,6 +5,7 @@ length: 22
 up: 120
 down: 100
 tour: 1
+featured_post: _posts/2013-11-23-schaffhausen-hagen.md
 ---
 Buchthalen - Büsingen - Gennersbrunn - Buchthalen
 
