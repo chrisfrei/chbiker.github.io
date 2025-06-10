@@ -1,7 +1,7 @@
 media:
-  - name: images # Note: 'name' key is required here
+  - name: images
     label: Images
-    extensions: [ jpg, png, webp ]
+    categories: [ image  ]
   - name: files
     label: Files
     categories: [ document ]
