@@ -1,19 +1,20 @@
 ---
 layout: post
-title: a new post
+title: Post with Pages CMS
+date: 2025-06-10
 ---
-# dsfdsa
+# Pages CMS
 
-lorem **ipsum**
+Aut rerum molestias qui quis fugiat ut error quia rem molestiae nemo est odio esse? Et inventore asperiores rem nulla voluptatum ex iste odio. Est consectetur officia aut dolorem consequatur est voluptatibus corrupti est dolores aliquid.
 
-fdgddfggdfgdf [fghgfhd](https://baug.ethz.ch) hgfhgfhd
+At quidem minus sit sequi internos et perspiciatis delectus.
 
-| asdf | safd | safa | sdfgsd |
+| Tour | Cool | Length | Color |
 | --- | --- | --- | --- |
-| saf | asf | rghgdfdgf | dfgfds |
-|     | dgfdfsg | dsgsdg | dgsfgdsf |
-| dsgdsg | dfsgds |     |     |
+| **#1** | \-- | 11 km | black |
+| **#2** | +   | 32 km | green |
+| **#3** | ++  |     |     |
 
-1.  dsffadsfds dfsgfdsgdg
-    
-    ![](/images/buesingen-gennersbrunn.jpg)
+## Map
+
+1.  ![](/images/buesingen-gennersbrunn.jpg)
